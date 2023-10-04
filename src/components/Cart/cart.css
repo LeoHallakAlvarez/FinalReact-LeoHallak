@@ -1,0 +1,30 @@
+.botonRojo {
+    width: auto;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #000;
+    transition: all 0.3s ease;
+  }
+  
+  .botonVerde {
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #000;
+    transition: all 0.3s ease;
+  }
