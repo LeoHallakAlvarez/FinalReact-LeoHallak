@@ -11,7 +11,7 @@ const Cart = () => {
   return (
     <div className={styles.carrito}>
       <h1>Carrito</h1>
-      {cart.length !== 0 ? (
+      {cart.length !== 0 ? ( 
         <div className="container">
           <div className="row">
             {cart.map((e) => (
